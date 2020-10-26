@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 ![capa github](https://github.com/renan-assis-santos/renan-assis-santos/blob/main/1.png)
 
-
 <center>
-<table>
+  <table>
     <tr>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-assis-santos&hide=html&layout=compact&theme=vue&count_private=true" />
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=renan-assis-santos&theme=vue"/>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-assis-santos&hide=html&layout=compact&theme=vue&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=renan-assis-santos&theme=vue"/></td>
     </tr>   
-</table>
-</center> 
+  </table>
+</center>  
 
 ![](https://komarev.com/ghpvc/?username=renan-assis-santos&color=green&style=flat)
