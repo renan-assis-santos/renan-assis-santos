@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **renan-assis-santos/renan-assis-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![capa github](https://github.com/renan-assis-santos/renan-assis-santos/blob/main/1.png)
+![capa-github](https://github.com/renan-assis-santos/renan-assis-santos/blob/main/images/capa-github.png)
 
 <center>
   <table>
@@ -25,5 +23,11 @@ Here are some ideas to get you started:
     </tr>   
   </table>
 </center>  
+
+### Opa 👋
+
+---
+
+
 
 ![](https://komarev.com/ghpvc/?username=renan-assis-santos&color=green&style=flat)
